@@ -1,4 +1,4 @@
-#Celeb Detector
+# CELEB DETECTOR
 
 This application can detect celeb name in picture.
 
